@@ -31,7 +31,7 @@ listeners:
   priorities:
   - logueo
   bind_local_address: true
-  host: 127.0.0.1:25565
+  host: 192.168.0.7:25565
   max_players: 50
   tab_size: 60
   force_default_server: true
